@@ -1,16 +1,16 @@
 # Large Language Models (LLMs): From Basics to Advanced
 
-## Outline
-- Introduction
-- Large Language Models Definition
-- Evolution of LLMs
-- Architecture of Large Language Models
-- Training Large Language Models
-- Applications of Large Language Models
-- Ethical Considerations and Challenges
-- Future Directions and Innovations
-- Conclusion
-- Additional Resources
+## 📚 Contents
+ - Introduction
+ - Large Language Models Definition
+ - Evolution of LLMs
+ - Architecture of Large Language Models
+ - Training Large Language Models
+ - Applications of Large Language Models
+ - Ethical Considerations and Challenges
+ - Future Directions and Innovations
+ - Conclusion
+ - Additional Resources
 
 
 - Introduction
