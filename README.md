@@ -1,1 +1,1 @@
-# Large Language Models (LLMs): From Basics to Applications
+# Large Language Models (LLMs): From Basics to Advanced
